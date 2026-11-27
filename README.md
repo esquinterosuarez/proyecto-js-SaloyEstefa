@@ -24,7 +24,7 @@ y accesibles.
 Qué va a buscar, filtrar u ordenar la app y con qué método (filter, sort, reduce, find).
 
 ## Boceto
-![Boceto de la página](imagenes/boceto.png)
+![Boceto de la página](imagenes/Boceto.png)
 
 ## Reparto de tareas
 | Salomé Lopez Sanchez | Se encarga de HTML, CSS, Formularios y Filtros|
