@@ -28,6 +28,10 @@ y accesibles.
 Qué va a buscar, filtrar u ordenar la app y con qué método (filter, sort, reduce, find).
 
 ## Boceto
+
+El boceto fue generado en figma con el fin de tener una idea de lo que se quiere hacer, con las herramientas actuales, 
+logramos mostrar una similitud con el fin de que cumpla los requisitos necesarios:
+
 ![Boceto de la página](imagenes/Boceto.png)
 
 ## Reparto de tareas
