@@ -18,7 +18,11 @@ y accesibles.
 5. Guadar la información al actualizarse, sin modificar la página.
 
 ## Datos que se guardan en localStorage
-- ...
+
+ Clave | Contenido |
+|---|---|
+| `recetas_colombianas` | Arreglo de recetas: `id, nombre, categoria, precio, imagen, descripcion, ingredientes, menuDelDia, fecha` |
+| `recetas_colombianas_filtros` | Últimos filtros usados (búsqueda, categoría, orden, precio máximo, solo menú del día) |
 
 ## Búsqueda, filtro u orden
 Qué va a buscar, filtrar u ordenar la app y con qué método (filter, sort, reduce, find).
